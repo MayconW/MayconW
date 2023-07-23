@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maycon-wellington-silva-araujo-34b429128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maycon-wellington-silva-araujo-34b429128/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maycon-wellington-silva-araujo-34b429128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/maycon-wellington-silva-araujo-34b429128/](https://www.linkedin.com/in/maycon-wellington-silva-araujo-34b429128)" height="30" width="40" /></a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://i.gifer.com/NxfN.gif">
 <h3 align="left">Languages and Tools:</h3>
